@@ -1,0 +1,11 @@
+/Users/garyranoa/Desktop/CashClubApp/CashClubApp.Core/bin/Debug/netstandard2.0/CashClubApp.Core.deps.json
+/Users/garyranoa/Desktop/CashClubApp/CashClubApp.Core/bin/Debug/netstandard2.0/CashClubApp.Core.dll
+/Users/garyranoa/Desktop/CashClubApp/CashClubApp.Core/bin/Debug/netstandard2.0/CashClubApp.Core.pdb
+/Users/garyranoa/Desktop/CashClubApp/CashClubApp.Core/bin/Debug/netstandard2.0/Xamarin.iOS.dll
+/Users/garyranoa/Desktop/CashClubApp/CashClubApp.Core/bin/Debug/netstandard2.0/Xamarin.iOS.pdb
+/Users/garyranoa/Desktop/CashClubApp/CashClubApp.Core/obj/Debug/netstandard2.0/CashClubApp.Core.csproj.CoreCompileInputs.cache
+/Users/garyranoa/Desktop/CashClubApp/CashClubApp.Core/obj/Debug/netstandard2.0/CashClubApp.Core.AssemblyInfoInputs.cache
+/Users/garyranoa/Desktop/CashClubApp/CashClubApp.Core/obj/Debug/netstandard2.0/CashClubApp.Core.AssemblyInfo.cs
+/Users/garyranoa/Desktop/CashClubApp/CashClubApp.Core/obj/Debug/netstandard2.0/CashClubApp.Core.dll
+/Users/garyranoa/Desktop/CashClubApp/CashClubApp.Core/obj/Debug/netstandard2.0/CashClubApp.Core.pdb
+/Users/garyranoa/Desktop/CashClubApp/CashClubApp.Core/obj/Debug/netstandard2.0/CashClubApp.Core.csprojResolveAssemblyReference.cache

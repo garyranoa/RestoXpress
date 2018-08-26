@@ -1,0 +1,12 @@
+/Users/garyranoa/Desktop/UHack/UHack.Core/bin/Debug/netstandard2.0/UHack.Core.deps.json
+/Users/garyranoa/Desktop/UHack/UHack.Core/bin/Debug/netstandard2.0/UHack.Core.dll
+/Users/garyranoa/Desktop/UHack/UHack.Core/bin/Debug/netstandard2.0/UHack.Core.pdb
+/Users/garyranoa/Desktop/UHack/UHack.Core/bin/Debug/netstandard2.0/Xamarin.iOS.dll
+/Users/garyranoa/Desktop/UHack/UHack.Core/bin/Debug/netstandard2.0/Xamarin.iOS.pdb
+/Users/garyranoa/Desktop/UHack/UHack.Core/obj/Debug/netstandard2.0/UHack.Core.csproj.CoreCompileInputs.cache
+/Users/garyranoa/Desktop/UHack/UHack.Core/obj/Debug/netstandard2.0/UHack.Core.AssemblyInfoInputs.cache
+/Users/garyranoa/Desktop/UHack/UHack.Core/obj/Debug/netstandard2.0/UHack.Core.AssemblyInfo.cs
+/Users/garyranoa/Desktop/UHack/UHack.Core/obj/Debug/netstandard2.0/UHack.Core.dll
+/Users/garyranoa/Desktop/UHack/UHack.Core/obj/Debug/netstandard2.0/UHack.Core.pdb
+/Users/garyranoa/Desktop/UHack/UHack.Core/obj/Debug/netstandard2.0/UHack.Core.csprojResolveAssemblyReference.cache
+/Users/garyranoa/Desktop/UHack/UHack.Core/obj/Debug/netstandard2.0/XamlC.stamp

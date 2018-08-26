@@ -1,0 +1,2 @@
+DataProvider: mysql
+DataConnectionString: Server=localhost;Database=uhack;Uid=root;Pwd=qwerty123;

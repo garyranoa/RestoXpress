@@ -1,0 +1,60 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Libraries", "Libraries", "{64064570-F833-468B-ADB1-391C582638B1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentation", "{BF367438-166C-42C1-966B-2DC429828896}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UHack.Core", "Libraries\UHack.Core\UHack.Core.csproj", "{4FC198E4-8BDE-4422-9724-DE2245C8BBF5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UHack.Data", "Libraries\UHack.Data\UHack.Data.csproj", "{89240912-6C8A-4022-A6CF-CF8C254F1CB6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UHack.Services", "Libraries\UHack.Services\UHack.Services.csproj", "{12D83E9F-8841-4D5D-9679-6461E23C9AC2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UHack.Web.Framework", "Presentation\UHack.Web.Framework\UHack.Web.Framework.csproj", "{B81147AF-4216-4E4F-ABA9-69455363B124}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UHack.Web", "Presentation\UHack.Web\UHack.Web.csproj", "{6DB1F6F2-C830-4D91-A14A-7DE1557375DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4FC198E4-8BDE-4422-9724-DE2245C8BBF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FC198E4-8BDE-4422-9724-DE2245C8BBF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FC198E4-8BDE-4422-9724-DE2245C8BBF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FC198E4-8BDE-4422-9724-DE2245C8BBF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89240912-6C8A-4022-A6CF-CF8C254F1CB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89240912-6C8A-4022-A6CF-CF8C254F1CB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89240912-6C8A-4022-A6CF-CF8C254F1CB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89240912-6C8A-4022-A6CF-CF8C254F1CB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12D83E9F-8841-4D5D-9679-6461E23C9AC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12D83E9F-8841-4D5D-9679-6461E23C9AC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12D83E9F-8841-4D5D-9679-6461E23C9AC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12D83E9F-8841-4D5D-9679-6461E23C9AC2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B81147AF-4216-4E4F-ABA9-69455363B124}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B81147AF-4216-4E4F-ABA9-69455363B124}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B81147AF-4216-4E4F-ABA9-69455363B124}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B81147AF-4216-4E4F-ABA9-69455363B124}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DB1F6F2-C830-4D91-A14A-7DE1557375DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DB1F6F2-C830-4D91-A14A-7DE1557375DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DB1F6F2-C830-4D91-A14A-7DE1557375DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DB1F6F2-C830-4D91-A14A-7DE1557375DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{4FC198E4-8BDE-4422-9724-DE2245C8BBF5} = {64064570-F833-468B-ADB1-391C582638B1}
+		{89240912-6C8A-4022-A6CF-CF8C254F1CB6} = {64064570-F833-468B-ADB1-391C582638B1}
+		{12D83E9F-8841-4D5D-9679-6461E23C9AC2} = {64064570-F833-468B-ADB1-391C582638B1}
+		{B81147AF-4216-4E4F-ABA9-69455363B124} = {BF367438-166C-42C1-966B-2DC429828896}
+		{6DB1F6F2-C830-4D91-A14A-7DE1557375DA} = {BF367438-166C-42C1-966B-2DC429828896}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8A641BA8-D96D-4555-BBA8-E33841589449}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{5D68BC8B-4D83-4BDF-ACDB-6554A3AF3F5E}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="UHack/Main.cs">
+    <Files>
+      <File FileName="UHack/AppDelegate.cs" Line="72" Column="120" />
+      <File FileName="UHack.Core/Services/SalesService.cs" Line="6" Column="12" />
+      <File FileName="UHack/Controllers/LoginViewController.cs" Line="217" Column="57" />
+      <File FileName="UHack/Controllers/ViewControllersHelper.cs" Line="23" Column="1" />
+      <File FileName="UHack/Main.storyboard" />
+      <File FileName="UHack/Controllers/MainTabBarViewController.designer.cs" Line="1" Column="1" />
+      <File FileName="UHack.Core/UHackApiEndpoints.cs" Line="15" Column="1" />
+      <File FileName="UHack.Core/UHackWebApi.cs" Line="216" Column="1" />
+      <File FileName="UHack.Core/Helpers/AuthHelper.cs" Line="42" Column="1" />
+      <File FileName="UHack/Controllers/ViewController1.cs" Line="16" Column="61" />
+      <File FileName="UHack/Controllers/ViewController2.cs" Line="16" Column="61" />
+      <File FileName="UHack/Controllers/ViewController3.cs" Line="16" Column="61" />
+      <File FileName="UHack/Main.cs" Line="16" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhone" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/garyranoa/Desktop/UHack/UHack/Controllers/LoginViewController.cs" relfile="UHack/Controllers/LoginViewController.cs" line="224" column="1" />
+      <Breakpoint file="/Users/garyranoa/Desktop/UHack/UHack.Core/UHackWebApi.cs" relfile="UHack.Core/UHackWebApi.cs" line="214" column="1" />
+      <Breakpoint file="/Users/garyranoa/Desktop/UHack/UHack.Core/UHackWebApi.cs" relfile="UHack.Core/UHackWebApi.cs" line="207" column="1" />
+      <Breakpoint file="/Users/garyranoa/Desktop/UHack/UHack.Core/UHackWebApi.cs" relfile="UHack.Core/UHackWebApi.cs" line="166" column="1" />
+      <Breakpoint file="/Users/garyranoa/Desktop/UHack/UHack.Core/UHackWebApi.cs" relfile="UHack.Core/UHackWebApi.cs" line="210" column="1" />
+      <Breakpoint file="/Users/garyranoa/Desktop/UHack/UHack.Core/UHackWebApi.cs" relfile="UHack.Core/UHackWebApi.cs" line="209" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.UHack PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget.6f747b50f9249561c44589123bdf9cf6147299dc" automaticSigning="False" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
